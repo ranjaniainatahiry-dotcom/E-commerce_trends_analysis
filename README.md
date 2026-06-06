@@ -39,6 +39,4 @@ Dans les 6 prochains mois, nous prévoyons une augmentation de 20% de la demande
 * Les changements dans les préférences des consommateurs, tels que l'adoption de nouvelles technologies, telles que les ordinateurs portables 2-en-1, qui pourraient impacter les ventes des laptops traditionnels.
 
 ---
-*Sources : Google Trends, TrendsMCP (4 plateformes), Apify (Amazon).*
-
-[![View Dashboard](https://img.shields.io/badge/🌐-View_Dashboard-2c7da0?style=for-the-badge)](https://ranjaniainatahiry-dotcom.github.io/rust-python-data-pipeline/dashboard_pro.html)
+*Sources : Google Trends, TrendsMCP (4 plateformes), Apify, Amazon 
