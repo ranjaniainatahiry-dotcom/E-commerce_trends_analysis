@@ -40,3 +40,5 @@ Dans les 6 prochains mois, nous prévoyons une augmentation de 20% de la demande
 
 ---
 *Sources : Google Trends, TrendsMCP (4 plateformes), Apify (Amazon).*
+
+[![View Dashboard](https://img.shields.io/badge/🌐-View_Dashboard-2c7da0?style=for-the-badge)](https://ranjaniainatahiry-dotcom.github.io/rust-python-data-pipeline/dashboard_pro.html)
